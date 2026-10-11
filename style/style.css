@@ -1,0 +1,20 @@
+html{
+    font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing:1px;
+}
+
+.done {
+    color : darkseagreen;
+    text-decoration: line-through solid black 2px;
+}
